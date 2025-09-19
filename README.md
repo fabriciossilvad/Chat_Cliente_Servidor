@@ -1,4 +1,4 @@
-# **Desenvolvimento de um Chat Distribuído estilo WhatsApp com Comunicação via Sockets
+# Desenvolvimento de um Chat Distribuído estilo WhatsApp com Comunicação via Sockets
 
 Este projeto acadêmico tem como objetivo aplicar conceitos de sistemas distribuídos por meio do desenvolvimento de uma aplicação de chat utilizando sockets, permitindo:
 
